@@ -1,6 +1,6 @@
-# [NameOfProject]
+# Kiterator
 
-[NameOfProject] is a generator of front-end starter kits. It's included lots of techs to create your own starter kit easily just defining config file according to your needs.
+Kiterator is a generator of front-end starter kits. It's included lots of techs to create your own starter kit easily just defining config file according to your needs.
 
 ## Currently Supported Techs
 ### HTML
